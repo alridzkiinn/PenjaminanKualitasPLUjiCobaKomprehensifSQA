@@ -1,0 +1,13 @@
+{
+    "name": "alris/toko-online-pjbl",
+    "type": "project",
+    "authors": [
+        {
+            "name": "alridzkiinn",
+            "email": "alriskialma@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}

@@ -1,0 +1,1 @@
+{"version":2,"defects":{"CheckoutTest::testCheckoutNormal":8,"CheckoutTest::testCheckoutGratisOngkir":8,"CheckoutTest::testCheckoutDiskon":8},"times":{"CheckoutTest::testCheckoutNormal":0.008,"CheckoutTest::testCheckoutGratisOngkir":0.005,"CheckoutTest::testCheckoutDiskon":0.01}}
